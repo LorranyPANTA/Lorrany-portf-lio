@@ -51,7 +51,7 @@ header{
 
 @media (min-width: 412px) {
   .perfil-foto {
-    margin-left: 18em;
+    margin-left: 9em;
     margin-top: -8em;
     margin-bottom: 1em;
     clip-path: circle(50% at 50% 50%);
@@ -61,7 +61,7 @@ header{
 
 @media (max-width: 1420px){
   .perfil-foto{
-    margin-left: 25em;
+    margin-left: 29em;
     margin-top: 3em;
     clip-path: circle(50% at 50% 50%);
     max-height: 198px;
