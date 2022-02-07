@@ -43,7 +43,6 @@ header{
 } */
 
 .perfil-foto{
-  border: 0.2em solid #BB67C9;
   margin-right: 58px;
   clip-path: circle(50% at 50% 50%);
   /* border-radius: 151px; */
@@ -52,7 +51,6 @@ header{
 
 @media (min-width: 412px) {
   .perfil-foto {
-    border: 0.2em solid #BB67C9;
     margin-left: 9em;
     margin-top: -8em;
     margin-bottom: 1em;
@@ -63,7 +61,6 @@ header{
 
 @media (max-width: 1420px){
   .perfil-foto{
-    border: 0.2em solid #BB67C9;
     margin-left: 25em;
     margin-top: 3em;
     clip-path: circle(50% at 50% 50%);
@@ -498,7 +495,7 @@ transition: transform 1s;
     flex-direction: column;
     font-size: 1.2em;
     padding:2em;
-    margin-right: 66.5em;
+    margin-right: 68.5em;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
   }
