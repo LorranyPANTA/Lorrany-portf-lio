@@ -279,3 +279,10 @@ transition: transform 1s;
 .portfolio-icons a:hover {
   text-shadow: 0px 0px 20px #bb00c9;
 }
+
+.mobile{
+  color: rgb(232, 244, 255);
+    font: icon;
+    font-size: 1em;
+    padding: 1em;
+    }
